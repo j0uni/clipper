@@ -8,8 +8,10 @@ You need the clipper-library, download from here: http://www.angusj.com/delphi/c
 
 It should output:
 
+<pre>
 solution size = 1
 0 = 175, 200
 1 = 150, 200
 2 = 150, 100
 3 = 175, 100
+</pre>
