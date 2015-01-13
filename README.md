@@ -1,5 +1,5 @@
 # clipper
-Here's one simple example that is compiling on gcc.
+Here's one simple C++ example of clipper usage that is compiling on gcc.
 
 Build it with command:
 g++ clipper.cpp main.cpp -o test
